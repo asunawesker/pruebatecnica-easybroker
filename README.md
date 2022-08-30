@@ -19,6 +19,7 @@ pip install -r requirements.txt
 Entrar por medio de la terminal a la carpeta `pruebatecnica`, posteriormente ejecutar
 
 ```
+source myvenv/bin/activate
 python3 manage.py runserver
 ```
 
